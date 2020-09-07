@@ -1,0 +1,7 @@
+allure-results
+specs
+.eslintrc.js
+tsconfig.json
+playground.*
+protractor-noop
+src
