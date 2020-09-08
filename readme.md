@@ -1,8 +1,8 @@
-# wdio-parallel-retrier
+# webdriverio-parallel-retrier
 
 🛠 Development in progress, beta version
 
-![npm downloads](https://img.shields.io/npm/dm/wdio-parallel-retrier.svg?style=flat-square)
+![npm downloads](https://img.shields.io/npm/dm/webdriverio-parallel-retrier.svg?style=flat-square)
 
 ## This library is a wrapper around ```process-rerun```
 
@@ -23,7 +23,7 @@
 ### usage
 
 ```js
-const {buildExecutor} = require('wdio-parallel-retrier');
+const {buildExecutor} = require('webdriverio-parallel-retrier');
 
 executeAsQueue();
 async function executeAsQueue() {
